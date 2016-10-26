@@ -1,0 +1,51 @@
+{
+    "packages": [
+
+        {
+            "name": "iamamaker",
+            "maintainer": "IAMAMAKER Electronics",
+            "websiteURL": "http://www.iamamaker.kr",
+            "email": "contact@iamamaker.kr",
+
+            "platforms": [
+
+                {
+                    "name": "BrickBoard (AVR)",
+                    "architecture": "avr",
+                    "version": "1.0.0",
+                    "category": "Contributed",
+                    "help": {
+                        "online": " "
+                    },
+                    "url": "https://iamamaker.github.io/ArduinoBoardManager/boards/iamamaker-avr-v1.0.0.zip",
+                    "archiveFileName": "iamamaker-avr-v1.0.0.zip",
+                    "checksum": "SHA-256:CEA079801AB597D9F88B8B90F97ABB98E286887CC6ABC3632035855FDF82F0A0",
+                    "size": "49386",
+                    "boards": [
+                        {
+                            "name": "BrickBoard M01"
+                        }
+                    ],
+                    "toolsDependencies": [
+                        {
+                            "packager": "arduino",
+                            "name": "avr-gcc",
+                            "version": "4.8.1-arduino5"
+                        },
+                        {
+                            "packager": "arduino",
+                            "name": "avrdude",
+                            "version": "6.0.1-arduino5"
+                        }
+                    ]
+                }
+
+            ],
+
+            "tools": [
+
+            ]
+        }
+
+    ]
+}

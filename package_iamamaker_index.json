@@ -15,7 +15,7 @@
                     "version": "1.0.0",
                     "category": "Contributed",
                     "help": {
-                        "online": " "
+                        "online": "http://www.iamamaker.kr/ko/tutorials/package_install_board_manager/"
                     },
                     "url": "https://iamamaker.github.io/ArduinoBoardManager/boards/iamamaker-avr-v1.0.0.zip",
                     "archiveFileName": "iamamaker-avr-v1.0.0.zip",

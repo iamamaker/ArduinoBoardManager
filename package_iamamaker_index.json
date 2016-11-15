@@ -12,15 +12,15 @@
                 {
                     "name": "BrickBoard (AVR)",
                     "architecture": "avr",
-                    "version": "1.0.0",
+                    "version": "1.0.1",
                     "category": "Contributed",
                     "help": {
                         "online": "http://www.iamamaker.kr/ko/tutorials/package_install_board_manager/"
                     },
-                    "url": "https://iamamaker.github.io/ArduinoBoardManager/boards/iamamaker-avr-v1.0.0.zip",
-                    "archiveFileName": "iamamaker-avr-v1.0.0.zip",
-                    "checksum": "SHA-256:CEA079801AB597D9F88B8B90F97ABB98E286887CC6ABC3632035855FDF82F0A0",
-                    "size": "49386",
+                    "url": "https://iamamaker.github.io/ArduinoBoardManager/boards/iamamaker-avr-v1.0.1.zip",
+                    "archiveFileName": "iamamaker-avr-v1.0.1.zip",
+                    "checksum": "SHA-256:9A3C394325C3F509154F42A3E902B7547822FAA0587E4613593AA61E920BE213",
+                    "size": "49504",
                     "boards": [
                         {
                             "name": "BrickBoard M01"

@@ -26,18 +26,7 @@
                             "name": "BrickBoard M01"
                         }
                     ],
-                    "toolsDependencies": [
-                        {
-                            "packager": "arduino",
-                            "name": "avr-gcc",
-                            "version": "4.8.1-arduino5"
-                        },
-                        {
-                            "packager": "arduino",
-                            "name": "avrdude",
-                            "version": "6.0.1-arduino5"
-                        }
-                    ]
+                    "toolsDependencies": []
                 },
 
                 {
@@ -57,18 +46,26 @@
                             "name": "BrickBoard M01"
                         }
                     ],
-                    "toolsDependencies": [
-                        {
-                            "packager": "arduino",
-                            "name": "avr-gcc",
-                            "version": "4.8.1-arduino5"
-                        },
-                        {
-                            "packager": "arduino",
-                            "name": "avrdude",
-                            "version": "6.0.1-arduino5"
-                        }
-                    ]
+                    "toolsDependencies": []
+                },
+
+                {
+                    "name": "BrickBoards (AVR)",
+                    "architecture": "avr",
+                    "version": "2.0.0",
+                    "category": "Contributed",
+                    "help": {
+                        "online": "http://www.iamamaker.kr/ko/tutorials/package_install_board_manager/"
+                    },
+                    "url": "https://iamamaker.github.io/ArduinoBoardManager/boards/iamamaker-brickboard-v2.0.0.zip",
+                    "archiveFileName": "iamamaker-brickboard-v2.0.0.zip",
+                    "checksum": "SHA-256:D35A4BFD8336D3D7BFD6CDC97AAADE00939C75EDB21B1862D3B589517C836729",
+                    "size": "189961",
+                    "boards": [
+                        {"name": "BrickBoard M01"},
+                        {"name": "BrickBoard M02"}
+                    ],
+                    "toolsDependencies": []
                 }
 
             ],

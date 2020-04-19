@@ -1,0 +1,39 @@
+{
+    "packages": [
+
+        {
+            "name": "iamamaker",
+            "maintainer": "IAMAMAKER Electronics",
+            "websiteURL": "http://www.iamamaker.kr",
+            "email": "contact@iamamaker.kr",
+
+            "platforms": [
+
+                {
+                    "name": "BrickBoards (AVR)",
+                    "architecture": "avr",
+                    "version": "2.0.1",
+                    "category": "Contributed",
+                    "help": {
+                        "online": "http://www.iamamaker.kr/ko/tutorials/package_install_board_manager/"
+                    },
+                    "url": "https://iamamaker.github.io/ArduinoBoardManager/boards/iamamaker-brickboard-v2.0.1.zip",
+                    "archiveFileName": "iamamaker-brickboard-v2.0.1.zip",
+                    "checksum": "SHA-256:3878B95237EBA2780A5043F44B78B967CE19BC0FE53CF26FE01AE0C58F44B047",
+                    "size": "220019",
+                    "boards": [
+                        {"name": "BrickBoard M01"},
+                        {"name": "BrickBoard M02"}
+                    ],
+                    "toolsDependencies": []
+                }
+
+            ],
+
+            "tools": [
+
+            ]
+        }
+
+    ]
+}
